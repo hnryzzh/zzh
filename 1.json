@@ -1,0 +1,20 @@
+{
+    "urls":[ 
+      {"url":"http://我不是.摸鱼儿.top",
+        "name":"线路1"},
+      {"url":"http://szyyds.cn/tv/x.json",
+        "name":"线路2"},      
+      {
+        "url":"http://www.饭太硬.net/tv",
+       "name":"线路3"
+      },
+      {
+        "url":"https://tv.菜妮丝.top",
+       "name":"线路4"
+      },
+      {"url":"http://肥猫.net/tv",
+        "name":"线路5"}
+
+      ]
+}
+
